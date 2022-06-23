@@ -16,4 +16,4 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-![bektemirova's GitHub stats](https://github-readme-stats.vercel.app/api?username=bektemirova&show_icons=true&theme=vue)
+![bektemirova's GitHub stats](https://github-readme-stats.vercel.app/api?username=anarabakyt&show_icons=true&theme=vue)
